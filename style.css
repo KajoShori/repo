@@ -1,0 +1,6 @@
+    .well {
+        background-color: #f5f5f5; /* Màu ghi */
+        padding: 25px; /* Khoảng cách bên trong */
+        margin-left: 300px; /* Lề bên trái */
+        margin-right: 300px; /* Lề bên phải */
+    }
