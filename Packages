@@ -1,0 +1,29 @@
+Package: com.mentalgod.bboardfix
+Name: BBoard Fix
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Reduce CPU usage and battery drain by that cause Backboardd.
+Maintainer: KajoShori's Repository
+Author: MentalGod
+Section: Utilities
+MD5sum: 6a9ef8391828d04b55f4878222837e6a
+SHA1: db646d96d3e862efc9fe1f0d43f9274e2e5ca148
+SHA256: c611a8c1da1776f1f61f30786f4f429832d23e9330b36655fa7b2d7fe450825c
+SHA512: 0cd1ac6f5faffaf35f1c9ecae5eea8da4c2d2a51e14908c76417d495e403fba9d99a1cdf142490ba2bcb8fe56ec639b41a68fb818d9fa2780b755f9bdbe5ab09
+Filename: ./debs/com.mentalgod.bboardfix_0.1.deb
+Size: 1836
+
+Package: com.mentalgod.appcdupd
+Name: appcd
+Version: 0.3.2
+Architecture: iphoneos-arm
+Description: Appcd unload more than 17 unuseful system daemons make battery life is greater.
+Maintainer: MentalGod
+Author: MentalGod
+Section: Utilities
+MD5sum: 006e23c646318193c13a9958990854e7
+SHA-1: fc3413fc9b61a526205f3e349324d5f271baa731
+SHA-256: 2a1705851d4204319bad912d773ecb686dcbc7fe7a3452cf5809b19e01670e51
+SHA-512: 2d4713bdf69daa9d9450b27158baef222c4ab32790579d07acec8eac1eebcc33ae3d5a8879c436348b880c6becb7b26ab00d8f346269b147f29d4b9e7a6dbae6
+Filename: ./debs/com.mentalgod.appcd-0.3.2.deb
+Size: 1488
