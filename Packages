@@ -42,7 +42,7 @@ MD5sum: 759713c87c8c2df595bbfedb77317e94
 SHA-1: 0fddb572ad6c42cf80a05a0cc81238f412734c07
 SHA-256: 4cc7df76404c6bc756348cbf36777504dd6d516dc2558ed14ca80b931e3a65cd
 SHA-512: 9eb0316a18cefccde7067f03c7a475061b65ff4c124808f6a1285316d3a8d7006e1ea999c6ff3923ddd9887b4db07aa3522e067255dc9ee8922edc17da5f4542
-Filename: ./debs/com.eevee.spotify_5.0_iphoneos-arm64e
+Filename: ./debs/com.eevee.spotify_5.0_iphoneos-arm64e.deb
 Size: 967118
 
 Architecture: iphoneos-arm64e
