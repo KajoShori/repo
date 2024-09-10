@@ -27,3 +27,357 @@ SHA-256: 2a1705851d4204319bad912d773ecb686dcbc7fe7a3452cf5809b19e01670e51
 SHA-512: 2d4713bdf69daa9d9450b27158baef222c4ab32790579d07acec8eac1eebcc33ae3d5a8879c436348b880c6becb7b26ab00d8f346269b147f29d4b9e7a6dbae6
 Filename: ./debs/com.mentalgod.appcd-0.3.2.deb
 Size: 1488
+
+Package: com.eevee.spotify
+Name: EeveeSpotify
+Description: A tweak to get Spotify Premium for free, just like Spotilife
+Maintainer: Eevee
+Author: Eevee
+Section: Tweaks
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf
+Architecture: iphoneos-arm64e
+Version: 5.0
+Pre-Depends: rootless-compat(>= 0.9)
+MD5sum: 759713c87c8c2df595bbfedb77317e94
+SHA-1: 0fddb572ad6c42cf80a05a0cc81238f412734c07
+SHA-256: 4cc7df76404c6bc756348cbf36777504dd6d516dc2558ed14ca80b931e3a65cd
+SHA-512: 9eb0316a18cefccde7067f03c7a475061b65ff4c124808f6a1285316d3a8d7006e1ea999c6ff3923ddd9887b4db07aa3522e067255dc9ee8922edc17da5f4542
+Filename: ./debs/com.eevee.spotify_5.0_iphoneos-arm64e
+Size: 967118
+
+Architecture: iphoneos-arm64e
+Package: com.ethxnn88.visibleisland
+Name: VisibleIsland
+Version: 2.0
+Depiction: https://ethxnn88.github.io/repo/depiction/web/com.ethxnn88.visibleisland.html
+SileoDepiction: https://ethxnn88.github.io/repo/depiction/native/com.ethxnn88.visibleisland.json
+ModernDepiction: https://ethxnn88.github.io/repo/depiction/native/com.ethxnn88.visibleisland.json
+Icon: https://ethxnn88.github.io/repo/assets/com.ethxnn88.visibleisland/icon.png
+Description: Enable, fix, and customize the Dynamic Island on older devices.
+Homepage: https://shuga.co/
+Section: Tweaks
+Depends: firmware (>=16.0), mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 16.0)
+Tags: compatible_min::ios16.0, compatible_max::ios16.6.1
+Author: ethxnn88 <ethxnn88@gmail.com>
+Maintainer: ethxnn88 <ethxnn88@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
+MD5sum: c153976f0a73df383524f82800ace209
+SHA-1: 7ed7dd9ab1184aa454cb80d01e9e8d8e651cb9da
+SHA-256: 5c5c6e9de5e3fac0d42ed3b91d6e2a5e872da7f1dbe452703bddd3af8fcdbd9a
+SHA-512: 4f17a8e57fd6f7d4048e1f24dd6283abe531e1968950528257ba6ec9b0194c668119d6f7143b83c2847e36b3a5e2db979a433f786169ec8ff99a4b36906101d7
+Filename: ./debs/com.ethxnn88.visibleisland_2.0_iphoneos-arm64e
+Size: 42750
+
+Package: com.exile90.icleanerpro
+Name: iCleaner Pro
+Description: The first real iOS system cleanup and management utility
+Author: Ivano Bilenchi <support@ib-soft.net>
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Version: 7.10.0
+Architecture: iphoneos-arm64e
+Homepage: http://ib-soft.net/icleaner
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Section: Utilities
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Icon: file:///Applications/iCleaner.app/Icon.png
+Pre-Depends: rootless-compat(>= 0.9)
+MD5sum: 5687acc18294ce44b8447a4b4f0b2895
+SHA-1: 02f252ae67711a6e2c8842a04f76c1117903376c
+SHA-256: 56f64057a5f797452899e85f9fea03923372bf92b10418e2d6c56d0941c488c6
+SHA-512: 07e664e0fa271a64b5dbd0aa3f52627474800d41e4aaa6a6a43fd3d2c80adbf642dbbdcd077b7de6c216190f9063dd6f96a28f12d461ae7a8b5bfa10eeb62a53
+Filename: ./debs/com.exile90.icleanerpro_7.10.0_iphoneos-arm64e.deb
+Size: 1390994
+
+Package: com.hitori.mikhak85
+Name: Mikhak (85)
+Version: 4.0
+Architecture: iphoneos-arm64e
+Description: Mikhak is a simple monoline semi handwriting font.
+Maintainer: Hitori
+Author: Alexman
+Section: Fonts
+Depends: mobilesubstrate, firmware (>= 15.0), com.spark.snowboard.fonts
+SileoDepiction: https://siieo.github.io/sileodepictions/Fonts/Mikhak/Mikhak.json
+Icon: https://siieo.github.io/sileodepictions/Fonts/icon.png
+Pre-Depends: rootless-compat(>= 0.9)
+MD5sum: 265997b8277768810f970a0a8df177d1
+SHA-1: a929b07c564e396074221902190dbb7b3e3ff232
+SHA-256: 6cf778b5b019670241114db7e23394da5e1b75393c26941b3c8cdc826fa47f1e
+SHA-512: fd2d2c74eaa94487784753792c8d30913064e4abb49274d21afba73e23b404dbebf5cf6b8e11c666a012b2741f083a9cbfbd30819d1c88e6dadf25ca74ead876
+Filename: ./debs/com.hitori.mikhak85_4.0_iphoneos-arm64e.deb
+Size: 29298806
+
+Author: ichitaso <willfeeltips+ps11@gmail.com>
+Maintainer: ichitaso <willfeeltips+ps11@gmail.com>
+Name: PowerSelector
+Package: com.ichitaso.powerselector11
+Pre-Depends: rootless-compat(>= 0.9), firmware (>= 11.0)
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
+Replaces: com.ichitaso.powerselector11
+Section: Utilities
+Description: The power supply relation of a device is operated.
+Depiction: https://cydia.ichitaso.com/depiction/powerselector11.html
+Homepage: https://cydia.ichitaso.com/depiction/powerselector11.html
+dev: ichitaso
+Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios17.1.2
+Icon: https://cydia.ichitaso.com/icons/PowerSelector.png
+SileoDepiction: https://cydia.ichitaso.com/depiction/powerselector11.json
+Architecture: iphoneos-arm64e
+Version: 1.4.0
+MD5sum: c223f8aa9fdbd48181982d7870295f52
+SHA-1: 85e15e51144ba73e994dea22d769e474505a8afd
+SHA-256: 9b2d6606f5185aa784d3407ae4b28573f0713c5264ec607e19484f4d073f9adc
+SHA-512: 49c58c703f4fe3889291b46e7be6310d9a13bfcf7f0ea4331403fa10fa96e497b91eca1d65594d0fdc813cb52e18d3cdb841ed64ec1b60ff36a9767d38dae28c
+Filename: ./debs/com.ichitaso.powerselector11_1.4.0_iphoneos-arm64e.deb
+Size: 367160
+
+Package: com.anthopak.lastlook
+Maintainer: KajoShori's Repository
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Version: 4.2k
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.cbz.anthocrack2
+Description: An AOD tweak that feels stock, with endless possibilities!
+Author: AnthoPak
+Name: LastLook
+Pre-Depends: rootless-compat(>= 0.9)
+MD5: d2788dc3f75fe92f00c9f57756a8a7f7
+SHA-1: a04ef6d4eebdbdbe32fd87903724379a09f3a646
+SHA-256: dcec77f195a68048800581c8fcc7fd646fdd6c8f0c9f69afee86b15b07537ff9
+SHA-512: f29e00ee2f604959904c79844e1a91e0cf2d7ae8355c304913b33b5c40674369b2334ea7326531f1de97d62a44b286ccf994850a972b624c5884d2d43dfefdfa
+Filename: ./debs/com.anthopak.lastlook_4.2k_iphoneos-arm64e.deb
+Size: 603302
+
+Package: com.cbz.anthocrack2
+Maintainer: CyPwn
+Name: AnthoCrack2
+Architecture: iphoneos-arm64e
+Description: Disable alerts for AnthoPak tweaks. This one's for the 95% who pirate!
+Author: CBZ
+Section: Tweaks
+Depends: mobilesubstrate
+Version: 1.0.0
+Pre-Depends: rootless-compat(>= 0.9)
+MD5: 3c1a4a0011d02598369e1320a0d65936
+SHA-1: 3d053f0dca7cc01e82b59da0efd4625bb8e69caf
+SHA-256: a09ae82d277753c7cb929f935c706cf034d9002a9fd316498b1e10c48afb1daf
+SHA-512: 08437b894f5328a0db348264d689fa5b4e762aa984c03505a962895c9e451f2307d98654c0879ee2866c2997a65eaf2d8d57c689649d817ba83514a1fa979522
+Filename: ./debs/com.cbz.anthocrack2_1.0.0_iphoneos-arm64e.deb
+Size: 4258
+
+Package: com.ginsu.dodo
+Name: Dodo (Rootless)
+Description: The perfect Lock Screen redesign.
+Maintainer: Ginsu
+Author: Ginsu
+Section: Tweaks
+Depends: dev.theos.orion14, firmware (>= 14.0), preferenceloader, com.ginsu.comet, com.ginsu.gscore, com.ginsu.gsweather
+Architecture: iphoneos-arm64e
+Version: 4.2.2
+Depiction: https://ginsu.dev/repo/depictions/index.html?packageId=com.ginsu.dodo
+Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.dodo/icon.png
+SileoDepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.dodo.json
+MD5: 07f134f37ff9cca258a97330704050a1
+SHA-1: 638ad0f441d9a2733c4665c679b2001f46ec189c
+SHA-256: 8fc4cafe11a4861491ce0be3765f9c9c0ab9e7328317ba005e64709ff7ac33ed
+SHA-512: 8e33faa1e5caa25cbec1258f342096fc3580cb5109abb4297cdb04881d4f6a275699a5432c6d76c839f9a24ad89bcaa8dd9121cc8f3971d0bf42e079aceff969
+Filename: ./debs/com.ginsu.dodo_4.2.2_iphoneos-arm64e.deb
+Size: 1946872
+
+Package: com.ginsu.gscore
+Name: GSCore (Rootless)
+Description: Environment and communication between my tweaks
+Maintainer: Ginsu
+Author: Ginsu
+Section: Tweaks
+Depends: dev.theos.orion14, firmware (>= 14.0)
+Architecture: iphoneos-arm64e
+Version: 1.0.4
+Depiction: https://ginsu.dev/repo/depictions/index.html?packageId=com.ginsu.gscore
+Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.gscore/icon.png
+SileoDepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.gscore.json
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.ginsu.gscore_1.0.4_iphoneos-arm64e.deb
+Size: 927598
+
+Package: com.ginsu.gsweather
+Name: GSWeather (Rootless)
+Description: A Weather fetching framework
+Maintainer: Ginsu
+Author: Ginsu
+Section: Tweaks
+Depends: dev.theos.orion14, firmware (>= 14.0)
+Architecture: iphoneos-arm64e
+Version: 1.1.1
+Depiction: https://ginsu.dev/repo/depictions/index.html?packageId=com.ginsu.gsweather
+Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.gsweather/icon.png
+SileoDepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.gsweather.json
+Pre-Depends: rootless-compat(>= 0.9)
+MD5: ef717dc7918b9fdf798dc5e5f97d9442
+SHA-1: f48a70fffd5dcc8b139dcf4d8309451c1c7ccf2f
+SHA-256: 3dd083a6ae41d4ee80f46e8a36b5f1104c9f46107ba961c90edd885915c48802
+SHA-512: dd9a8ff38b6c6d6799fa3cb631530210d4306384bbb48766739c0cc2cb0e5bad050708e6f4330922f94ce7751a5112037bed69b3d505f959bac1d5240992c615
+Filename: ./debs/com.ginsu.gsweather_1.1.1_iphoneos-arm64e.deb
+Size: 243942
+
+Author: ichitaso
+Maintainer: ichitaso
+Name: LocationService (CCSupport)
+Package: com.ichitaso.locationservicecc
+Pre-Depends: rootless-compat(>= 0.9), firmware (>= 11.0)
+Depends: com.opa334.ccsupport (>= 1.2)
+Section: Addons (ControlCenter)
+Description: Turn on / off LocationService from the control center.
+Depiction: https://cydia.ichitaso.com/depiction/locationservicecc.html
+Homepage: https://ichitaso.com
+dev: ichitaso
+Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios16.5
+Architecture: iphoneos-arm64e
+Version: 0.1-6
+MD5: 06fb0bd454e834967fc053a37aad0478
+SHA-1: 5f8cbd029ad169882d9341d9357791b5b9eec32c
+SHA-256: 3555e533610b220264b412d589dbfc6d4da6c0bd432192d66772192a8a0d7d44
+SHA-512: 79dbe6638b616478f5057ee526d89ab86b785daede968edb25404578d7333d2a7606b15a1a0064982cb5263a92ebd502ba8dee17110333d870667f926d99f599
+Filename: ./debs/com.ichitaso.locationservicecc_0.1-6_iphoneos-arm64e.deb
+Size: 50230
+
+Package: com.icraze.nosearchpill
+Name: NoSearchPill
+Description: Remove search pill from home screen on iOS 16
+Maintainer: iCraze
+Author: iCraze
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64e
+Version: 1.0
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+MD5: 7ec07273e7f5e8af39ae2c453fc484f0
+SHA-1: 14db11a40d687ebc66e491d1ebcdce61a6f02098
+SHA-256: 868160dc415a9451364328e4f3def3c84fbf2b96ab556fa9780d627ff2495e0e
+SHA-512: 20f5c33a7beae0cb9f8f0d690160c4c8756bf481bd435a177518fee0039bb5495cdb82a43f3a9230f44520416b5a5e1e4aff7080cf5e5e125e7d2da5b6a69f67
+Filename: ./debs/com.icraze.nosearchpill_1.0_iphoneos-arm64e.deb
+Size: 4788
+
+Package: com.netskao.filzacrack
+Name: Filza Crack
+Depends: firmware (>= 15.0), mobilesubstrate, com.tigisoftware.filza64bit
+Description: Filza unlock full functionality, the main program please install in the official source
+Homepage: https://tigisoftware.com/cydia/
+Maintainer: Nets
+Author: Netskao
+Section: Netskao-Tweaks
+Architecture: iphoneos-arm64e
+Version: 1.1-8
+Installed-Size: 88
+Pre-Depends: rootless-compat(>= 0.9)
+MD5: 49e28bec6aa471f0dc090f3b98092a30
+SHA-1: 6d006ca2ec4683f0f25f704deba98fd5fb610c97
+SHA-256: fc00a7a02134af8782339cce006114c8601d9e42ae69b57807ac41e675f57ab2
+SHA-512: fe86c77d2972b30a9fcc19601d90f9fde7e27bbad80aa2cd278081501afc0af5da433e36ea996d12a228d4a621fff5991aa02b28fe5457e0bacd6388a4c946e8
+Filename: ./debs/com.netskao.filzacrack_1.1-8_iphoneos-arm64e.deb
+Size: 6072
+
+Package: com.p2kdev.safariblocker
+Name: SafariBlocker
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Description: Block New Tabs with Options!
+Maintainer: P2KDev <p2kdev@gmail.com>
+Author: P2KDev <p2kdev@gmail.com>
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Version: 1.3.1
+Installed-Size: 424
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.safariblocker
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.safariblocker/icon.png
+SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.safariblocker.json
+Pre-Depends: rootless-compat(>= 0.9)
+MD5: 42bca830bafc621f4c8b8e1ad49d6e68
+SHA-1: 0859d92259ba4bf9c663a4b98ab6b86a3d16c888
+SHA-256: 8c5312537b707dd165c995fb86d74f0a50a62a361e1630532bc1a7bdfd98cfc2
+SHA-512: 1bf73f08d686137763f6d47d73d7de025e042259c591e1fb34c47506765be106fdf689391ebca2d74ca84ae4fb2a28a18d51926fdf7908e8e0f90aa637a0c5d5
+Filename: ./debs/com.p2kdev.safariblocker_1.3.1_iphoneos-arm64e.deb
+Size: 69012
+
+Package: com.spark.snowboard.fonts
+Name: SnowBoard Fonts Extension
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Description: Fonts for SnowBoard
+Provides: com.ipr.bytafont, com.bytafont.bytafont3
+Replaces: com.ipr.bytafont, com.bytafont.bytafont3
+Conflicts: com.ipr.bytafont, com.bytafont.bytafont3
+Maintainer: Spark
+Author: Spark
+Section: SnowBoard Extensions
+Architecture: iphoneos-arm64e
+Version: 1.1.0~Beta4-rootless
+Installed-Size: 392
+Pre-Depends: rootless-compat(>= 0.9)
+MD5: a784385c2d8b74cdace84c1f1c898015
+SHA-1: ed39831028b6331da0a640b30691070bd47fe102
+SHA-256: 3476e4652e62d6695801dedba1599c3754910aa76d1409c53e32175aa38cd7f3
+SHA-512: ad9c9b55dee68d48cef922b6f5383458e0b5cedf8b0bd381b600b69b09f15ae417696fc114a3fc4f6ac838553394ac423656ad41efaf132e0af7248d95884c6f
+Filename: ./debs/com.spark.snowboard.fonts_1.1.0~Beta4-rootless_iphoneos-arm64e.deb
+Size: 35640
+
+Package: com.spark.snowboard
+Name: SnowBoard
+Depends: mobilesubstrate, preferenceloader
+Description: Snowboard theming engine
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Maintainer: Spark
+Author: Spark & Dennis D. Bednarz
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Version: 1.5.37-Beta4-rootless
+Installed-Size: 3268
+Pre-Depends: rootless-compat(>= 0.9)
+MD5: 9b889b3ed255d9db2757281b2d0de073
+SHA-1: 1d62da66a0c12f5d6fdb36ec2337a1bc497126ac
+SHA-256: c52254b1f9d3c3bc78f29a3eed77a174343ec08cc9bee22454c3a70ed93b7bb0
+SHA-512: 2b1df299178781b632fe4f2151c0710f36a4b533039a8e7d2da03486a7dec95dbd96dee8968b7b809b8c5d39bec02d1d755862a05bb1ee1d716d63373068f787
+Filename: ./debs/com.spark.snowboard_1.5.37-Beta4-rootless_iphoneos-arm64e.deb
+Size: 1431892
+
+Package: com.udevs.dockx
+Name: DockX
+Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
+Description: Pasteboard shortcuts on your keyboard dock!
+Maintainer: KajoShori's Repository
+Author: udevs
+Section: Tweaks
+Conflicts: com.restiveconch.actionbar
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+Architecture: iphoneos-arm64e
+Version: 2.6.2
+Installed-Size: 2036
+Pre-Depends: rootless-compat(>= 0.9)
+MD5: 851c32f86a2b01b050d6e2f11f828bbb
+SHA-1: 33b8f15fbf28ef50086e5ed6d544f7e888bc2b0e
+SHA-256: 96b82d0080f3d816659ddf58443717febb60376fb7d7bee3dad9e89c47fc467f
+SHA-512: 4bb25715d3ca835f29564801d92286b8ebfc96ebd7a731952e122dcbd1c817eed3da7037e26443da727e9467af6cf630096ab7a7a34c0704039a9b156da95c23
+Filename: ./debs/com.udevs.dockx_2.6.2_iphoneos-arm64e.deb
+Size: 715160
+
+Package: org.swift.protobuf.swiftprotobuf
+Name: SwiftProtobuf
+Description: Plugin and runtime library for using protobuf with Swift
+Maintainer: eevee
+Author: eevee
+Section: System
+Tag: role::developer
+Architecture: iphoneos-arm64e
+Version: 1.26.0
+Installed-Size: 9564
+Pre-Depends: rootless-compat(>= 0.9)
+MD5: 5c419909b0ecaf1b20032ec879c7dea8
+SHA-1: fe230be2f4cdebf57a41b6d06b87c97318ad30cd
+SHA-256: b4ddc3b91f3c01a92c420b138ad641357accea9c30fa424ede85007ede03c85b
+SHA-512: c904cb0aab8952db0d9c3d1add33cf229b9593d32db34803c0f475cf3c9c187d04fe9807391488d9619d516680f280ea32b687c04bd9ab02d834faa40a2ec17e
+Filename: ./debs/org.swift.protobuf.swiftprotobuf_1.26.0_iphoneos-arm64e.deb
+Size: 2901022
