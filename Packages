@@ -144,7 +144,7 @@ Description: An AOD tweak that feels stock, with endless possibilities!
 Author: AnthoPak
 Name: LastLook
 Pre-Depends: rootless-compat(>= 0.9)
-MD5: d2788dc3f75fe92f00c9f57756a8a7f7
+MD5sum: d2788dc3f75fe92f00c9f57756a8a7f7
 SHA-1: a04ef6d4eebdbdbe32fd87903724379a09f3a646
 SHA-256: dcec77f195a68048800581c8fcc7fd646fdd6c8f0c9f69afee86b15b07537ff9
 SHA-512: f29e00ee2f604959904c79844e1a91e0cf2d7ae8355c304913b33b5c40674369b2334ea7326531f1de97d62a44b286ccf994850a972b624c5884d2d43dfefdfa
@@ -161,7 +161,7 @@ Section: Tweaks
 Depends: mobilesubstrate
 Version: 1.0.0
 Pre-Depends: rootless-compat(>= 0.9)
-MD5: 3c1a4a0011d02598369e1320a0d65936
+MD5sum: 3c1a4a0011d02598369e1320a0d65936
 SHA-1: 3d053f0dca7cc01e82b59da0efd4625bb8e69caf
 SHA-256: a09ae82d277753c7cb929f935c706cf034d9002a9fd316498b1e10c48afb1daf
 SHA-512: 08437b894f5328a0db348264d689fa5b4e762aa984c03505a962895c9e451f2307d98654c0879ee2866c2997a65eaf2d8d57c689649d817ba83514a1fa979522
@@ -180,7 +180,7 @@ Version: 4.2.2
 Depiction: https://ginsu.dev/repo/depictions/index.html?packageId=com.ginsu.dodo
 Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.dodo/icon.png
 SileoDepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.dodo.json
-MD5: 07f134f37ff9cca258a97330704050a1
+MD5sum: 07f134f37ff9cca258a97330704050a1
 SHA-1: 638ad0f441d9a2733c4665c679b2001f46ec189c
 SHA-256: 8fc4cafe11a4861491ce0be3765f9c9c0ab9e7328317ba005e64709ff7ac33ed
 SHA-512: 8e33faa1e5caa25cbec1258f342096fc3580cb5109abb4297cdb04881d4f6a275699a5432c6d76c839f9a24ad89bcaa8dd9121cc8f3971d0bf42e079aceff969
@@ -216,7 +216,7 @@ Depiction: https://ginsu.dev/repo/depictions/index.html?packageId=com.ginsu.gswe
 Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.gsweather/icon.png
 SileoDepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.gsweather.json
 Pre-Depends: rootless-compat(>= 0.9)
-MD5: ef717dc7918b9fdf798dc5e5f97d9442
+MD5sum: ef717dc7918b9fdf798dc5e5f97d9442
 SHA-1: f48a70fffd5dcc8b139dcf4d8309451c1c7ccf2f
 SHA-256: 3dd083a6ae41d4ee80f46e8a36b5f1104c9f46107ba961c90edd885915c48802
 SHA-512: dd9a8ff38b6c6d6799fa3cb631530210d4306384bbb48766739c0cc2cb0e5bad050708e6f4330922f94ce7751a5112037bed69b3d505f959bac1d5240992c615
@@ -237,7 +237,7 @@ dev: ichitaso
 Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios16.5
 Architecture: iphoneos-arm64e
 Version: 0.1-6
-MD5: 06fb0bd454e834967fc053a37aad0478
+MD5sum: 06fb0bd454e834967fc053a37aad0478
 SHA-1: 5f8cbd029ad169882d9341d9357791b5b9eec32c
 SHA-256: 3555e533610b220264b412d589dbfc6d4da6c0bd432192d66772192a8a0d7d44
 SHA-512: 79dbe6638b616478f5057ee526d89ab86b785daede968edb25404578d7333d2a7606b15a1a0064982cb5263a92ebd502ba8dee17110333d870667f926d99f599
@@ -255,7 +255,7 @@ Architecture: iphoneos-arm64e
 Version: 1.0
 Installed-Size: 168
 Pre-Depends: rootless-compat(>= 0.9)
-MD5: 7ec07273e7f5e8af39ae2c453fc484f0
+MD5sum: 7ec07273e7f5e8af39ae2c453fc484f0
 SHA-1: 14db11a40d687ebc66e491d1ebcdce61a6f02098
 SHA-256: 868160dc415a9451364328e4f3def3c84fbf2b96ab556fa9780d627ff2495e0e
 SHA-512: 20f5c33a7beae0cb9f8f0d690160c4c8756bf481bd435a177518fee0039bb5495cdb82a43f3a9230f44520416b5a5e1e4aff7080cf5e5e125e7d2da5b6a69f67
@@ -274,7 +274,7 @@ Architecture: iphoneos-arm64e
 Version: 1.1-8
 Installed-Size: 88
 Pre-Depends: rootless-compat(>= 0.9)
-MD5: 49e28bec6aa471f0dc090f3b98092a30
+MD5sum: 49e28bec6aa471f0dc090f3b98092a30
 SHA-1: 6d006ca2ec4683f0f25f704deba98fd5fb610c97
 SHA-256: fc00a7a02134af8782339cce006114c8601d9e42ae69b57807ac41e675f57ab2
 SHA-512: fe86c77d2972b30a9fcc19601d90f9fde7e27bbad80aa2cd278081501afc0af5da433e36ea996d12a228d4a621fff5991aa02b28fe5457e0bacd6388a4c946e8
@@ -295,7 +295,7 @@ Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2k
 Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.safariblocker/icon.png
 SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.safariblocker.json
 Pre-Depends: rootless-compat(>= 0.9)
-MD5: 42bca830bafc621f4c8b8e1ad49d6e68
+MD5sum: 42bca830bafc621f4c8b8e1ad49d6e68
 SHA-1: 0859d92259ba4bf9c663a4b98ab6b86a3d16c888
 SHA-256: 8c5312537b707dd165c995fb86d74f0a50a62a361e1630532bc1a7bdfd98cfc2
 SHA-512: 1bf73f08d686137763f6d47d73d7de025e042259c591e1fb34c47506765be106fdf689391ebca2d74ca84ae4fb2a28a18d51926fdf7908e8e0f90aa637a0c5d5
@@ -316,7 +316,7 @@ Architecture: iphoneos-arm64e
 Version: 1.1.0~Beta4-rootless
 Installed-Size: 392
 Pre-Depends: rootless-compat(>= 0.9)
-MD5: a784385c2d8b74cdace84c1f1c898015
+MD5sum: a784385c2d8b74cdace84c1f1c898015
 SHA-1: ed39831028b6331da0a640b30691070bd47fe102
 SHA-256: 3476e4652e62d6695801dedba1599c3754910aa76d1409c53e32175aa38cd7f3
 SHA-512: ad9c9b55dee68d48cef922b6f5383458e0b5cedf8b0bd381b600b69b09f15ae417696fc114a3fc4f6ac838553394ac423656ad41efaf132e0af7248d95884c6f
@@ -337,7 +337,7 @@ Architecture: iphoneos-arm64e
 Version: 1.5.37-Beta4-rootless
 Installed-Size: 3268
 Pre-Depends: rootless-compat(>= 0.9)
-MD5: 9b889b3ed255d9db2757281b2d0de073
+MD5sum: 9b889b3ed255d9db2757281b2d0de073
 SHA-1: 1d62da66a0c12f5d6fdb36ec2337a1bc497126ac
 SHA-256: c52254b1f9d3c3bc78f29a3eed77a174343ec08cc9bee22454c3a70ed93b7bb0
 SHA-512: 2b1df299178781b632fe4f2151c0710f36a4b533039a8e7d2da03486a7dec95dbd96dee8968b7b809b8c5d39bec02d1d755862a05bb1ee1d716d63373068f787
@@ -357,7 +357,7 @@ Architecture: iphoneos-arm64e
 Version: 2.6.2
 Installed-Size: 2036
 Pre-Depends: rootless-compat(>= 0.9)
-MD5: 851c32f86a2b01b050d6e2f11f828bbb
+MD5sum: 851c32f86a2b01b050d6e2f11f828bbb
 SHA-1: 33b8f15fbf28ef50086e5ed6d544f7e888bc2b0e
 SHA-256: 96b82d0080f3d816659ddf58443717febb60376fb7d7bee3dad9e89c47fc467f
 SHA-512: 4bb25715d3ca835f29564801d92286b8ebfc96ebd7a731952e122dcbd1c817eed3da7037e26443da727e9467af6cf630096ab7a7a34c0704039a9b156da95c23
@@ -375,9 +375,86 @@ Architecture: iphoneos-arm64e
 Version: 1.26.0
 Installed-Size: 9564
 Pre-Depends: rootless-compat(>= 0.9)
-MD5: 5c419909b0ecaf1b20032ec879c7dea8
+MD5sum: 5c419909b0ecaf1b20032ec879c7dea8
 SHA-1: fe230be2f4cdebf57a41b6d06b87c97318ad30cd
 SHA-256: b4ddc3b91f3c01a92c420b138ad641357accea9c30fa424ede85007ede03c85b
 SHA-512: c904cb0aab8952db0d9c3d1add33cf229b9593d32db34803c0f475cf3c9c187d04fe9807391488d9619d516680f280ea32b687c04bd9ab02d834faa40a2ec17e
 Filename: ./debs/org.swift.protobuf.swiftprotobuf_1.26.0_iphoneos-arm64e.deb
 Size: 2901022
+
+Package: com.mrgcgamer.libgcuniversal
+Name: LibGcUniversal
+Depends: firmware (>= 14.0) | ws.hbang.alderis, firmware (>= 12.0)
+Provides: com.mrgcgamer.libgcimagepicker, com.mrgcgamer.libgccolorpicker
+Description: An awesome library of some sort!!
+Maintainer: MrGcGamer
+Author: MrGcGamer
+Section: Development
+Tag: role::developer
+Architecture: iphoneos-arm64e
+Version: 1.7.0
+Installed-Size: 380
+Pre-Depends: rootless-compat(>= 0.9)
+MD5sum: 3e114b5fe5d7b1e6b22aea3558f94776
+SHA-1: 41cf92d5ffacb1758cee231c96965c25dc7156d3
+SHA-256: b70d818c38ce1b72004ee92967e4de15b59e0420e6e610cf57a999b83eab5caf
+SHA-512: 1539f367f83ab9108740e2026bd7e91454cea8c54ac9f0776b4339fc2ec0b522945663213d83795ca7de241c5efba5bf73aac8f3cccebd6502643f530741bb42
+Filename: ./debs/com.mrgcgamer.libgcuniversal_1.7.0_iphoneos-arm64e.deb
+Size: 95478
+
+Package: com.rpgfarm.a-font
+Name: A-Font
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Description: Change your font!
+Maintainer: Baw Appie <pp121324@gmail.com>
+Author: Baw Appie <pp121324@gmail.com>
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Version: 1.11
+Installed-Size: 2476
+Pre-Depends: rootless-compat(>= 0.9)
+MD5sum: 4b204ffa205e82020bdffa1ec5d70b1f
+SHA-1: 7f6538f123de08c39d7f71e5e31babc4527e62c1
+SHA-256: 4a7ac40ded878f104e2b801a465969f84172d01212ab6c07ada77b8eafd34339
+SHA-512: ee80e4c1ca8c9629ae56e1212adb617bc7f79339ec7e8da07d8f6967730977d10622d32c265b880dc6ea52b22459ab189d1f22977c6a082f333b1953a330ddde
+Filename: ./debs/com.rpgfarm.a-font_1.11_iphoneos-arm64e.deb
+Size: 852832
+
+Package: com.zx02.frame.roothide
+Name: Frame (Roothide iOS 15+)
+Depends: mobilesubstrate,firmware (>= 13.9.9)
+Conflicts: com.zx02.frame.ios13,com.zx02.frame.ios14
+Description: Bring your iDevice to life with true video wallpapers.
+Maintainer: Zerui Chen
+Author: Zerui Chen
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Version: 3.0.1
+Installed-Size: 4284
+Pre-Depends: rootless-compat(>= 0.9)
+Replaces: com.zx02.frame.rootless
+MD5sum: a116f344612043ff2a34d136a211300b
+SHA-1: 9e8a18b5abc74282ca8ce0684996901df476c4d9
+SHA-256: c26c1c5b0a66c028b2095675122dff902178291fba01781c4b755b2365003956
+SHA-512: 0185800f0fc23e5b0c7f47dab6b214466ce8776eb8e0b4ce1aa5d914aa9ac52ad7fcbc77c6550056ea9241755e9d7c2cdd301d60e66187f947e24d8c4eaa4bb5
+Filename: ./debs/com.zx02.frame.roothide_3.0.1_iphoneos-arm64e.deb
+Size: 2523610
+
+Package: dev.traurige.eneko
+Name: Eneko
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Conflicts: love.litten.eneko
+Description: Live wallpapers for iOS
+Maintainer: Traurige <hello@traurige.dev>
+Author: Traurige <hello@traurige.dev>
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Version: 1.4.2
+Installed-Size: 404
+Pre-Depends: rootless-compat(>= 0.9)
+MD5sum: 2de642c9169d0bb0f03db89d9875fdee
+SHA-1: 1eb7544a6fd3797e4c865892e3f8ced01f382655
+SHA-256: a6e1670d3e440251b2b1c8d0832347e70c8e5e8b9f7892535c6647e4b7d4858c
+SHA-512: 5b646426814059f301c0588ea69ba44ef792d6aa467dc656947f54502f754abdf40ee15bbb77e564c09e0d6b8b7892b4c397ab90cf7d325c9e333565cb64b076
+Filename: ./debs/dev.traurige.eneko_1.4.2_iphoneos-arm64e.deb
+Size: 49272
