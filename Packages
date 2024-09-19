@@ -458,3 +458,18 @@ SHA-256: a6e1670d3e440251b2b1c8d0832347e70c8e5e8b9f7892535c6647e4b7d4858c
 SHA-512: 5b646426814059f301c0588ea69ba44ef792d6aa467dc656947f54502f754abdf40ee15bbb77e564c09e0d6b8b7892b4c397ab90cf7d325c9e333565cb64b076
 Filename: ./debs/dev.traurige.eneko_1.4.2_iphoneos-arm64e.deb
 Size: 49272
+
+Package: ks.facebook.wolfnoads
+Name: Facebook NoAds + Wolf (Roothide)
+Description: Like title!
+Maintainer: KajoShori
+Author: Lema Michael, P2KDev
+Section: Tweak's
+Architecture: iphoneos-arm64e
+Version: 2.3
+MD5sum: 6b6d1c9d8ffead96b1629ec9cc16310a
+SHA-1: 55857aa2b2fcc466ffe504ceb7dc7b99ca50abf4
+SHA-256: d040e7101b9d326b4fba61cf4673ea520fc64a62c318dd532ba0eceb17e5972d
+SHA-512: 14a1875d55a233212996d0f09bd590f37fdc4279d9778625140a953f5b2378496077219810e869f36ab0ad7a639e7c272655880ab36492749d5ad0b10d428f46
+Filename: ./debs/ks.facebook.wolfnoads_2.3_iphoneos-arm64e.deb
+Size: 3982348
