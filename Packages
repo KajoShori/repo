@@ -473,3 +473,57 @@ SHA-256: d040e7101b9d326b4fba61cf4673ea520fc64a62c318dd532ba0eceb17e5972d
 SHA-512: 14a1875d55a233212996d0f09bd590f37fdc4279d9778625140a953f5b2378496077219810e869f36ab0ad7a639e7c272655880ab36492749d5ad0b10d428f46
 Filename: ./debs/ks.facebook.wolfnoads_2.3_iphoneos-arm64e.deb
 Size: 3982348
+
+Package: com.bandarhl.bhtiktok
+Name: BHTikTok Plus
+Description: An awesome tweak for TikTok!
+Maintainer: KajoShori
+Author: dvntm
+Section: Tweaks
+Icon: https://i.imgur.com/PKIhkrt.png
+Depends: mobilesubstrate
+Architecture: iphoneos-arm64e
+Version: 2.3
+Installed-Size: 1480
+Pre-Depends: rootless-compat(>= 0.9)
+MD5sum: dd5b319f2fe0661a2c814e4253983e6b
+SHA-1: f5d9059bd8ecbb33c0246cc9dc8e0e21bdda76b4
+SHA-256: 37e8861418ed2aa0239d1488631c1655340c835a112d621f3ff4ba007ea9011b
+SHA-512: d67ca14d56bdad11d39b6adaac85b3cf9d5dcbb010f7d03a001cebad804081415589a2a72b1a214961eafbf8e66e4ffcd7408fb05f5b39b4aace416ee2dad134
+Filename: ./debs/com.bandarhl.bhtiktok_2.3_iphoneos-arm64e.deb
+Size: 634248
+
+Package: ks.twitter.bhnoads
+Name: BHTwitter + NoAds (Roothide)
+Description: Awesome tweak for Twitter
+Maintainer: Bandar Alruwaili
+Author: Bandar Alruwaili + P2KDev
+Section: Tweaks
+Depends: mobilesubstrate, ws.hbang.common
+Architecture: iphoneos-arm64e
+Version: 4.3-1+debug
+Installed-Size: 23840
+Pre-Depends: rootless-compat(>= 0.9)
+MD5sum: a674b0be8f0f24b0794f60a71bf82f72
+SHA-1: 831c47b73f029e98bde59cabeba3dfc31df47db2
+SHA-256: c8874e3894d4819c40dd1d3655dd96a2861d4881c303b15f0007f03d1baf6f28
+SHA-512: c8cb96bf235ea591de1f507956d2717fe6629d63c601e4a3d1b4b2935c75d66a0229654d0151d45e17bd6ed5c0fd00c562bfbc770b1350d1daae59841a12d5a5
+Filename: ./debs/ks.twitter.bhnoads_4.3-1+debug_iphoneos-arm64e.deb
+Size: 10687910
+
+Package: ks.picsart.gold
+Name: PicsArt Gold
+Author: Lãng Khách
+Description: Unlock PicsArt Gold
+Depends: mobilesubstrate
+Maintainer: KajoShori
+Architecture: iphoneos-arm64e
+Section: Tweaks
+Version: 1.0
+Installed-Size: 940
+MD5sum: d1f89902fd647a50baa9c509ad739ead
+SHA-1: 155edd75629806a3311fdba26daec245003b631a
+SHA-256: f8c826c79a35110f091bc4b7187bea55727d6d673d4e1ad4fd55279d14a933ca
+SHA-512: 7f0e5c578bb5f472bed34e3dd6ebe89f4213cbc253da6f6cefb95d551fae58c17c7ddeaf7748f8d4271fa62f3fd41fa1e8fa0b79b7796c42341d759a05f2c3c5
+Filename: ./debs/ks.picsart.gold_1.0_iphoneos-arm64e.deb
+Size: 13840

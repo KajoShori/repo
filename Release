@@ -1,11 +1,11 @@
-Origin: KajoShori
+Origin: KajoShori's Repository
 Label: KajoShori's Repository
 Suite: stable
 Version: 1.0
-Codename: cydia-ios
+Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: Repository for iOS Jaibroken by KajoShori
 MD5Sum:
- 815454a50a87137b5e9bead25c57f74f 21004 Packages
- 6d25ecabdcffcdcf00d45b003ecf3b98 7261 Packages.bz2
+ 815454a50a87137b5e9bead25c57f74f 23060 Packages
+ 6d25ecabdcffcdcf00d45b003ecf3b98 7937 Packages.bz2
